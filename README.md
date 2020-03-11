@@ -7,5 +7,5 @@ predicting COVID-19 cases in Austria<br>
 
 This figure shows the model's prediction for the absolute number of COVID-19 infections in Austria.<br>
 ![COVID-19 cases in Asutria](https://github.com/moritzmitterdorfer/COVID-19-Austria/blob/master/figure.png)<br>
-Sine b = 1.4.., the number of COVID-19 cases increases by 40% per day! 
+Since b = 1.4.., the number of COVID-19 cases increases by 40% per day! 
 
